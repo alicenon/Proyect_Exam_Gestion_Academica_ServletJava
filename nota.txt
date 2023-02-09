@@ -1,0 +1,6 @@
+
+nombre de la base de datos es:  test
+la tabla  : alumnos 
+lo guarde como query y como sql
+	tablaalumnos.qbquery
+	tablaalumnos.sql
